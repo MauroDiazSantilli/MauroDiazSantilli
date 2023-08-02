@@ -1,4 +1,6 @@
-### Hola!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lato&pause=1000&color=2BA71C&background=FFF5F400&width=435&lines=Hola%2C+mi+nombre+es+Mauro+Diaz+Santilli" alt="Typing SVG" />
+</h1>
 
 <!--
 **MauroDiazSantilli/MauroDiazSantilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
